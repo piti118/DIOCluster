@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  1 MAR 2012 22:10
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  1 MAR 2012 22:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -335,76 +335,76 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 LaTeX Warning: No \author given.
 
-<../plot/clusterenergy.pdf, id=33, 717.03038pt x 222.99248pt>
+<../plot/clusterenergy.pdf, id=34, 710.89026pt x 222.99248pt>
 File: ../plot/clusterenergy.pdf Graphic file (type pdf)
 
 <use ../plot/clusterenergy.pdf> [1
 
 {/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../plot
 /clusterenergy.pdf>]
-<../plot/E_peak.pdf, id=81, 726.69147pt x 389.01274pt>
+<../plot/E_peak.pdf, id=83, 726.69147pt x 389.01274pt>
 File: ../plot/E_peak.pdf Graphic file (type pdf)
 
 <use ../plot/E_peak.pdf>
-<../plot/sig_peak_loc_36.pdf, id=86, 634.1429pt x 186.88023pt>
+<../plot/sig_peak_loc_36.pdf, id=88, 634.1429pt x 186.88023pt>
 File: ../plot/sig_peak_loc_36.pdf Graphic file (type pdf)
 
 <use ../plot/sig_peak_loc_36.pdf>
-<../plot/dio_peak_loc_36.pdf, id=87, 636.96594pt x 189.76248pt>
+<../plot/dio_peak_loc_36.pdf, id=89, 636.96594pt x 189.76248pt>
 File: ../plot/dio_peak_loc_36.pdf Graphic file (type pdf)
 
 <use ../plot/dio_peak_loc_36.pdf>
-<../plot/sig_peak_loc_39.pdf, id=88, 624.65433pt x 187.1198pt>
+<../plot/sig_peak_loc_39.pdf, id=90, 624.65433pt x 187.1198pt>
 File: ../plot/sig_peak_loc_39.pdf Graphic file (type pdf)
 
 <use ../plot/sig_peak_loc_39.pdf>
-<../plot/dio_peak_loc_39.pdf, id=89, 631.19438pt x 186.88023pt>
+<../plot/dio_peak_loc_39.pdf, id=91, 631.19438pt x 186.88023pt>
 File: ../plot/dio_peak_loc_39.pdf Graphic file (type pdf)
 
 <use ../plot/dio_peak_loc_39.pdf>
-<../plot/average_dio_hit_36.pdf, id=93, 628.0106pt x 190.07262pt>
+<../plot/average_dio_hit_36.pdf, id=95, 628.0106pt x 190.07262pt>
 File: ../plot/average_dio_hit_36.pdf Graphic file (type pdf)
 
 <use ../plot/average_dio_hit_36.pdf>
-<../plot/average_dio_hit_39.pdf, id=94, 628.0106pt x 190.07262pt>
+<../plot/average_dio_hit_39.pdf, id=96, 628.0106pt x 190.07262pt>
 File: ../plot/average_dio_hit_39.pdf Graphic file (type pdf)
 
 <use ../plot/average_dio_hit_39.pdf>
-<../plot/removed_crystals.pdf, id=95, 867.24pt x 216.81pt>
+<../plot/removed_crystals.pdf, id=97, 867.24pt x 216.81pt>
 File: ../plot/removed_crystals.pdf Graphic file (type pdf)
 
 <use ../plot/removed_crystals.pdf> [2] [3 <../plot/E_peak.pdf> <../plot/sig_pea
 k_loc_36.pdf>] [4 <../plot/dio_peak_loc_36.pdf> <../plot/sig_peak_loc_39.pdf> <
 ../plot/dio_peak_loc_39.pdf>] [5 <../plot/average_dio_hit_36.pdf> <../plot/aver
 age_dio_hit_39.pdf> <../plot/removed_crystals.pdf>]
-<../plot/clusterenergy_no_zoom.pdf, id=418, 717.03038pt x 222.99248pt>
+<../plot/clusterenergy_no_zoom.pdf, id=420, 717.03038pt x 222.99248pt>
 File: ../plot/clusterenergy_no_zoom.pdf Graphic file (type pdf)
 
 <use ../plot/clusterenergy_no_zoom.pdf> [6
 
  <../plot/clusterenergy_no_zoom.pdf>] [7
 
-] <../plot/sig_sample_hit_36.pdf, id=468, 895.50374pt x 342.65271pt>
+] <../plot/sig_sample_hit_36.pdf, id=470, 895.50374pt x 342.65271pt>
 File: ../plot/sig_sample_hit_36.pdf Graphic file (type pdf)
 
 <use ../plot/sig_sample_hit_36.pdf>
-<../plot/dio_sample_hit_36.pdf, id=469, 895.50374pt x 342.65271pt>
+<../plot/dio_sample_hit_36.pdf, id=471, 895.50374pt x 342.65271pt>
 File: ../plot/dio_sample_hit_36.pdf Graphic file (type pdf)
 
 <use ../plot/dio_sample_hit_36.pdf>
-<../plot/mixed_dio_sample_hit_36.pdf, id=470, 895.50374pt x 342.65271pt>
+<../plot/mixed_dio_sample_hit_36.pdf, id=472, 895.50374pt x 342.65271pt>
 File: ../plot/mixed_dio_sample_hit_36.pdf Graphic file (type pdf)
 
 <use ../plot/mixed_dio_sample_hit_36.pdf>
-<../plot/sig_sample_hit_39.pdf, id=471, 895.50374pt x 342.65271pt>
+<../plot/sig_sample_hit_39.pdf, id=473, 895.50374pt x 342.65271pt>
 File: ../plot/sig_sample_hit_39.pdf Graphic file (type pdf)
 
 <use ../plot/sig_sample_hit_39.pdf>
-<../plot/dio_sample_hit_39.pdf, id=472, 895.50374pt x 342.65271pt>
+<../plot/dio_sample_hit_39.pdf, id=474, 895.50374pt x 342.65271pt>
 File: ../plot/dio_sample_hit_39.pdf Graphic file (type pdf)
 
 <use ../plot/dio_sample_hit_39.pdf>
-<../plot/mixed_dio_sample_hit_39.pdf, id=473, 895.50374pt x 342.65271pt>
+<../plot/mixed_dio_sample_hit_39.pdf, id=475, 895.50374pt x 342.65271pt>
 File: ../plot/mixed_dio_sample_hit_39.pdf Graphic file (type pdf)
 
 <use ../plot/mixed_dio_sample_hit_39.pdf>
@@ -421,11 +421,11 @@ Package rerunfilecheck Info: File `dio_cluster.out' has not changed.
 (rerunfilecheck)             Checksum: 0AD9A9442686F5BE055071E142AD5045;409.
  ) 
 Here is how much of TeX's memory you used:
- 5545 strings out of 493747
- 83815 string characters out of 3143546
+ 5547 strings out of 493747
+ 83839 string characters out of 3143546
  163358 words of memory out of 3000000
- 8703 multiletter control sequences out of 15000+200000
- 11044 words of font info for 42 fonts, out of 3000000 for 9000
+ 8704 multiletter control sequences out of 15000+200000
+ 11212 words of font info for 43 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  41i,7n,28p,724b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -433,11 +433,12 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
 usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on dio_cluster.pdf (10 pages, 409948 bytes).
+local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on dio_cluster.pdf (10 pages, 421781 bytes).
 PDF statistics:
- 931 PDF objects out of 1000 (max. 8388607)
- 334 compressed objects within 4 object streams
+ 936 PDF objects out of 1000 (max. 8388607)
+ 338 compressed objects within 4 object streams
  40 named destinations out of 1000 (max. 500000)
  137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
