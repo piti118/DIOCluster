@@ -1,7 +1,3 @@
-plot/*.png
-plot/*.pdf
-plot/*.eps
-plot/*.gif
 *.zip
 *.pdf
 *.eps
@@ -14,6 +10,9 @@ plot/*.gif
 *.d
 *.a
 *.dylib
+*.aux
+*.out
+*.synctex.gz
 pylib/scratch.py
 tmp/*
 !tmp/.emptyfile
